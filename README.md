@@ -37,8 +37,8 @@ Riot Games APIを活用し、ゲームデータを取得・提供します。
     - useDebounce カスタムフックを活用した検索API通信の最適化
 
 -  **バックエンド(10%)**
-  - DB、API設計
-  - MongoDB導入推進
+  -  DB、API設計
+  -  MongoDB導入推進
 
 ## 🎯 主な機能
 - ユーザ戦績検索
