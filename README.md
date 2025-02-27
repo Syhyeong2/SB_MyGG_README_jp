@@ -1,0 +1,1 @@
+# SB_MyGG_README_jp
