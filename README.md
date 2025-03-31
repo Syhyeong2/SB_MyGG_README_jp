@@ -8,18 +8,14 @@
 Riot Games APIを活用し、ゲームデータを取得・提供します。
 
 ## 🛠 技術スタック
-### **Backend**
-- Java 17
-- Spring Boot 3.x
-- JPA / Hibernate
-- MySQL
-- MongoDB
+### Front-End  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Styled-components](https://img.shields.io/badge/Styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white) ![React Router](https://img.shields.io/badge/React--Router--DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-### **Frontend**
-- React
-- Styled-components
-- Zustand
-- React-router-dom
+### Back-End  
+![Java](https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 👥 担当範囲
 - **フロントエンド (100%)**  
